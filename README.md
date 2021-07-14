@@ -1,7 +1,7 @@
 # Hi, I'm Dinah and I'm a Front End Engineer
 
-- 📍 I’m currently located in Los Angeles, CA
-- 🌱 I’m currently learning about JavaScript and React.js
+- 📍 I’m located in Los Angeles, CA
+- 🌱 Currently learning about JavaScript and React.js
 - 🔭 I’m currently working on building a landing page using HTML, CSS and Javascript
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dinahbrito/">LinkedIn</a>
 <!--

@@ -2,7 +2,7 @@
 
 - 📍 I’m located in Los Angeles, CA
 - 🌱 Currently learning about JavaScript and React.js
-- 🔭 I’m currently working on building a landing page using HTML, CSS and Javascript
+- 🔭 I’m currently working on building a responsive landing page using grid and flexbox
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dinahbrito/">LinkedIn</a>
 <!--
 **dinahbrito/dinahbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

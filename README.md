@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinahbrito&theme=default&show_icons=true&hide_rank) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinahbrito&layout=compact)](https://github.com/dinahbrito/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinahbrito&layout=compact)](https://github.com/dinahbrito/github-readme-stats)
 
+ -->

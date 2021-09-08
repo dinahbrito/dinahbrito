@@ -1,4 +1,4 @@
-# Hi, I'm Dinah and I'm a Front End Engineer
+# Hi, I'm Dinah
 
 - 📍 I’m located in Los Angeles, CA
 - 🌱 Currently learning about JavaScript and React.js

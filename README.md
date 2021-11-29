@@ -1,7 +1,6 @@
 # Hi, I'm Dinah
 
 - 📍 I’m located in Los Angeles, CA
-- 🌱 Currently learning about JavaScript and React.js
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dinahbrito/">LinkedIn</a>
 <!--
 **dinahbrito/dinahbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

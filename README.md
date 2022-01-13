@@ -2,6 +2,9 @@
 
 - 📍 I’m located in Los Angeles, CA
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dinahbrito/">LinkedIn</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinahbrito)](https://git.io/streak-stats)
+
 <!--
 **dinahbrito/dinahbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

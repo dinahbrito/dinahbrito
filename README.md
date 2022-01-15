@@ -1,6 +1,6 @@
 # Hi, I'm Dinah
 
-<!-- - 📍 I’m located in Los Angeles, CA -->
+- 📍 I’m located in Los Angeles, CA 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dinahbrito/">LinkedIn</a>
 
 <!--

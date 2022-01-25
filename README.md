@@ -1,11 +1,11 @@
 # Hi, I'm Dinah
 
 - 📍 I’m located in Los Angeles, CA 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/dinahbrito/">LinkedIn</a>
+
 
 <!--
 **dinahbrito/dinahbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/dinahbrito/">LinkedIn</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
